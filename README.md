@@ -8,4 +8,6 @@
 - McDonald’s
 - MosBurger
 - BurgerKing
+- Burger King
 - Lucky Pierrot
+
