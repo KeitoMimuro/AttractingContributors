@@ -10,4 +10,5 @@
 - BurgerKing
 - Burger King
 - Lucky Pierrot
+- A&W
 
