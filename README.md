@@ -11,4 +11,5 @@
 - Burger King
 - Lucky Pierrot
 - A&W
+- McDonald’s
 
