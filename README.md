@@ -5,3 +5,4 @@
 - alco & peace / アルコ&ピース
 - ken shimura (late)
 - マツコ・デラックス
+- Ryuji Akiyama
